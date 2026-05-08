@@ -24,10 +24,3 @@ Hi, I'm Ashvinder Sharma
 ![MongoDB](https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashvinder2005&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashvinder2005&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvinder2005&layout=compact&theme=tokyonight)
