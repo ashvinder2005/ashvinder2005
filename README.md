@@ -8,7 +8,7 @@ Hi, I'm Ashvinder Sharma
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashvinder-sharma-ab693b289/)
 
 ---
 
